@@ -8,8 +8,8 @@
 
 - 👋 Hi, I’m @Rafał Sztorc
 - 👀 I’m interested in programming, traveling
-- 🌱 I’m currently learning HTML, CSS, SASS, JS, REACT
-- 💞️ I’m looking to collaborate on the frontend
+- 🌱 I’m currently Salesforce Developer and learning TS, JS, REACT
+- 💞️ I’m looking to collaborate on the Frontend or Salesforce Developer
 - 📫 How to reach me sztorc.rafal@o2.pl
 
 
